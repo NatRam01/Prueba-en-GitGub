@@ -1,2 +1,3 @@
 Este es un archivo de prueba para
-practicar Git Bash
+practicar Git Bash.
+Esta es una modificación del archivo reciente.
