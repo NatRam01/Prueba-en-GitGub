@@ -4,4 +4,8 @@ practicar Git Bash.
 Ahora realizaré modificaciones para
 poner en practica las ramas dentro de Git. 
 
-Creamos una rama que se llama Cabecera
+Creamos una rama que se llama Cabecera.
+
+Ahora en esta rama de la cabecera seguiremos
+haciendo las modificaciones de texto para
+probar.
