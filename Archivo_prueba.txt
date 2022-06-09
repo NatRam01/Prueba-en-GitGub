@@ -1,6 +1,6 @@
 Este es un archivo de prueba para
 practicar Git Bash.
-
+Esta linea la agregué en GitHub.
 Ahora realizaré modificaciones para
 poner en practica las ramas dentro de Git. 
 
