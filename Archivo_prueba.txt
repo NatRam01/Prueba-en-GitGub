@@ -12,3 +12,6 @@ haciendo las modificaciones de texto para
 probar.
 
 Bienvenidos a mi prueba 2.0
+
+Footer
+Agregando diseño del footer para hacer merge.
